@@ -1,5 +1,6 @@
 ###############################################################################
 # KDE Connect SFTP to Windows Explorer
+# https://github.com/92jackson/KDE-Connect-SFTP-to-Windows-Explorer
 #
 # PURPOSE
 #
