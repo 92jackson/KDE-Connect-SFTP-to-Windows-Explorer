@@ -21,7 +21,9 @@ Install:
 - SSHFS-Win
 
 Official releases are available from their respective project websites, or using:
-`winget install SSHFS-Win.SSHFS-Win`
+```
+winget install SSHFS-Win.SSHFS-Win
+```
 
 ## Installation
 
