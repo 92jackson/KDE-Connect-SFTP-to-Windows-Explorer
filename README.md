@@ -13,6 +13,8 @@ This script:
 - Opens the mounted drive in Windows Explorer.
 - Uses KDE Connect's live connection details, so IP addresses and ports are not hardcoded.
 
+<img width="1227" height="978" alt="Screenshot 2026-08-17 131925" src="https://github.com/user-attachments/assets/5b5f1de9-0213-47b5-b9b6-ea737d1b7a35" />
+
 ## Requirements
 
 Install:
