@@ -62,6 +62,10 @@ This can be changed by editing:
 
 inside the script.
 
+## Troubleshooting
+
+If you already have another SFTP compatible client installed (such as WinSCP), you may first need to unregister that as being the default app for SFTP connections, otherwise that client will likely block this script from running. After doing so, re-run the registry command registering this script (from the instructions above).
+
 ## License
 
 Released under the MIT License.
